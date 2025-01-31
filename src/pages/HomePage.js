@@ -28,8 +28,6 @@ function HomePage() {
           <p className="text-lg font-semibold">{quizData.title}</p>
           <p className="text-sm">Topic: <span className="font-medium">{quizData.topic}</span></p>
           <p className="text-sm">⏳ Duration: <span className="font-medium">{quizData.duration} min</span></p>
-          <p className="text-sm text-green-300">✅ Correct Answer Marks: <span className="font-medium">{quizData.correct_answer_marks}</span></p>
-          <p className="text-sm text-red-300">❌ Negative Marks: <span className="font-medium">{quizData.negative_marks}</span></p>
         </div>
         {isCounting ? (
           <p className="text-2xl text-yellow-300 font-bold mt-4">Starting in {countdown}...</p>
