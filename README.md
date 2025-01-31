@@ -98,11 +98,11 @@ quiz-app/
 
 ## Screenshots
 
-![HomePage](Assets/Homepage.jpg)
+![HomePage](public/Assets/HomePage.jpg)
 
-![QuizPage](Assets/QuizPage.jpg)
+![QuizPage](public/Assets/QuizPage.jpg)
 
-![SummaryPage](Assets/SummaryPage.jpg)
+![SummaryPage](public/Assets/Summarypage.jpg)
 
 ## Contributing
 
